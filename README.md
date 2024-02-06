@@ -16,3 +16,4 @@ You can find more information about my group on its [official webpage](https://w
 
 You can find job opportunities on the group [job page](https://www.guignardlab.com/jobs).
 
+The group [GitHub](https://github.com/GuignardLab).
