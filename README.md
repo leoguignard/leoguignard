@@ -1,6 +1,6 @@
 ### Hi there 👋 ([job opportunities](https://www.guignardlab.com/jobs))
 
-I am a theoretical *computer scientist by training* and a *biologist by experience*.
+From coding algorithms to decoding development, I’ve evolved into a *biologist* with roots in *theoretical computer science*.
 
 ---
 I try to improve our understanding of **embryo morphogenesis**: how cells arrange in tissues, tissues in organs and eventually organs in fully functional organisms.
